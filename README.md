@@ -3,10 +3,12 @@
 This project was created doing fork of a DIO repository.
 
 FEAT: Change the blog theme from Marvel to Programming.
+
 FEAT: Increase the number of blog cards.
+
 FIX: Broke content of card 3 and card 4.
 
-![](assets/img/myBlog.png)
+![](/src/assets/img/myBlog.png)
 
 ## Development server
 
